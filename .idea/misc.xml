@@ -3,7 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/drawable/ic_add.xml" value="0.349" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1995" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/drawable/ic_verified_user_96dp.xml" value="0.3725" />
         <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/layout/activity_main.xml" value="0.18034447821681865" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/layout/fragment_add_edit_task.xml" value="0.25" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/layout/fragment_task_detail.xml" value="0.17350557244174267" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/layout/nav_header.xml" value="0.371875" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/layout/task_item.xml" value="0.371875" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/layout/tasks_frag.xml" value="0.371875" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/menu/drawer_actions.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/menu/filter_tasks.xml" value="0.371875" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/menu/taskdetail_fragment_menu.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Geovani Amaral/StudioProjects/minimalisttodo/app/src/main/res/menu/tasks_fragment_menu.xml" value="0.19166666666666668" />
       </map>
     </option>
   </component>
